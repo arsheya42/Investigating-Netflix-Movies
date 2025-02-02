@@ -29,6 +29,6 @@ Analyze the distribution of release years and durations.
 Provide insights that could inform nostalgic-style productions and marketing strategies.
 
 ##Getting Started
-To replicate or build upon this analysis, clone the repository and ensure you have access to the netflix_data.csv dataset. Use appropriate data analysis libraries (e.g., Pandas, Matplotlib, Seaborn) to conduct your exploration.
+To replicate or build upon this analysis, clone the repository and ensure you have access to the netflix_data.csv dataset. Use appropriate data analysis libraries (e.g., Pandas, Matplotlib, Seaborn) to conduct your exploration. 
 
 Feel free to explore further and contribute to the project!
