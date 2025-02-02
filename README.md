@@ -1,6 +1,6 @@
 # Investigating-Netflix-Movies
 
-** Netflix**! What started in 1997 as a DVD rental service has since exploded into one of the largest entertainment and media companies.
+**Netflix**! What started in 1997 as a DVD rental service has since exploded into one of the largest entertainment and media companies.
 
 ## Project Overview
 This project focuses on the exploration of Netflix's extensive database, particularly analyzing movies released in the 1990s. What began in 1997 as a DVD rental service has transformed Netflix into one of the largest entertainment and media companies globally. With a vast array of movies and series available, this analysis aims to uncover insights into the cinematic landscape of the 1990s.
