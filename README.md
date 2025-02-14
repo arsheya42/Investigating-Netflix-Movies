@@ -22,13 +22,13 @@ The analysis uses the netflix_data.csv dataset, which contains detailed informat
 | description  | Brief description of the show |
 | genre | Genre of the show |
 
-##Objectives
+## Objectives
 Perform exploratory data analysis (EDA) to understand trends and patterns in 1990s movies on Netflix.
 Investigate aspects such as the most common genres, directors, and cast members.
 Analyze the distribution of release years and durations.
 Provide insights that could inform nostalgic-style productions and marketing strategies.
 
-##Getting Started
+## Getting Started
 To replicate or build upon this analysis, clone the repository and ensure you have access to the netflix_data.csv dataset. Use appropriate data analysis libraries (e.g., Pandas, Matplotlib, Seaborn) to conduct your exploration. 
 
 Feel free to explore further and contribute to the project!
